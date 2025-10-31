@@ -144,7 +144,7 @@
   }
 
   .text-two {
-    font-size: 1.4rem;
+    font-size: 2rem;
   }
 
   .btn-warning, .btn-primary {
@@ -169,3 +169,4 @@
 @media (max-width: 768px) {
 
 }
+
